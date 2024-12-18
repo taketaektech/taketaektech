@@ -1,16 +1,20 @@
-## Hi there 👋
+## I am a late bloomer 🪷
+I believe growth takes time, and my journey reflects perseverance and continuous learning.
 
-<!--
-**taketaektech/taketaektech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Education
+- 2014.03 ~ 2022.02, B.S. in Engineering, Pusan National University  *(Major in Mechanical Engineering, Minor in Electrical Engineering)*  
+- 2024.07 ~ 2024.12, [NHN Academy Java Backend 7기](https://www.nhnacademy.com)
 
-Here are some ideas to get you started:
+### Awards
+- 2024.12, NHN Academy 7th Final Team Project - Grand Prize
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+- 2023.12, SQL Developer (SQLD)
+- 2023.12, Linux Master Level 2 (리눅스마스터 2급)
+
+### Activities
+- Participated as a beta reader for 4 programming books, providing feedback and writing endorsements
+- 2024.05, Completed BE course in Inflearn Warming-up Club Study (1st cohort, selected as Outstanding Learner)
+
+### Others
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taketaektech&count_private=true&show_icons=true&theme=dracula) <br />
