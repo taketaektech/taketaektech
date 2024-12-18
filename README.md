@@ -2,8 +2,9 @@
 I believe growth takes time, and my journey reflects perseverance and continuous learning.
 
 ### Education
-- 2014.03 ~ 2022.02, B.S. in Engineering, Pusan National University  *(Major in Mechanical Engineering, Minor in Electrical Engineering)*  
-- 2024.07 ~ 2024.12, [NHN Academy Java Backend 7기](https://www.nhnacademy.com)
+- 2014.03 ~ 2022.02, B.S. in Engineering, Pusan National University
+  - *Major in Mechanical Engineering and Minor in Electrical Engineering*
+- 2024.07 ~ 2024.12, [NHN Academy Java Backend 7th Cohort](https://www.nhnacademy.com)
 
 ### Awards
 - 2024.12, NHN Academy 7th Final Team Project - Grand Prize
